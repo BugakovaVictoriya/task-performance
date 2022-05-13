@@ -4,6 +4,8 @@
 
 3. в index.html в <script src="contacts.js"></script> работает асинхронно: <script async src=contacts.js></script>
 
-4. минифицирован index.html
+4.в index.html в <script src="stats.js"></script> работает асинхронно: <script async src=stats.js></script>
 
-5. минифицирован contacts.js 
+5. минифицирован index.html
+
+6. минифицирован contacts.js 
