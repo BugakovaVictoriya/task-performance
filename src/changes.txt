@@ -1,0 +1,9 @@
+1. в styles.css в .stickyHeader{} добавлен will-change: transform;
+
+2. минифицирован styles.css 
+
+3. в index.html в <script src="contacts.js"></script> работает асинхронно: <script async src=contacts.js></script>
+
+4. минифицирован index.html
+
+5. минифицирован contacts.js 
