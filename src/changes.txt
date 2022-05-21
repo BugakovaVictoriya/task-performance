@@ -1,0 +1,7 @@
+1. в styles.css в .stickyHeader{} добавлен will-change: transform;
+
+2. в index.html в <script src="contacts.js"></script> работает асинхронно: <script async src=contacts.js></script>
+
+3. в index.html в <script src="stats.js"></script> работает асинхронно: <script async src=stats.js></script>
+
+4. в contacts.js чтобы получить значение для stickyHeader нужно разделить скрол (с округлением) на высоту элементов
